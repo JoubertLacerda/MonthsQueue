@@ -1,2 +1,2 @@
 # MonthsQueue
-Simple program displaying the use of the QUEUE&lt;T> 
+Simple program displaying the use and basic knowledge of the QUEUE&lt;T> 
